@@ -8,7 +8,7 @@
 
 ### 提前准备
 
-你唯一需要提前准备的就是一个 Cloudflare 账户 （如果需要在自己的服务器上部署，不依赖 Cloudflare，可参考[#46](https://github.com/cf-pages/Telegraph-Image/issues/46) ）
+你唯一需要提前准备的就是一个 Cloudflare 账户 
 
 ### 手把手教程
 
